@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Paradox-Evil-EXE!
 
-<!--
-**Paradox-Evil-EXE/Paradox-Evil-EXE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! Here’s a little about me:
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Roblox Studio Modeler** — I enjoy building and designing in Roblox Studio.
+- **Lua** — Somewhat proficient; scripting cool things for Roblox.
+- **Arduino** — Decent with hardware projects and tinkering.
+- **Python** — Comfortable with automation, scripts, and I run an active Discord bot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Interests
+- **Roblox Nerd** — Always exploring, creating, and playing within the Roblox universe.
+- **Phantom Forces Sweat** — Competitive player who loves a good challenge.
+
+## 🚀 What I'm Up To
+- Working on new Roblox experiences and models.
+- Improving my coding skills across platforms.
+- Building fun bots and scripts in Python.
+
+---
+
+> Always down to chat about Roblox, coding, or gaming!  
+> Feel free to check out my projects or connect with me.
+> discord: evil.exe_main
